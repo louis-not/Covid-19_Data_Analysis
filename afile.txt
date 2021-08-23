@@ -1,1 +1,1 @@
-Open ipynb with either google colab or jupyternotebook
+Open ipynb with either google colab or jupyternotebook kontol susah ajg

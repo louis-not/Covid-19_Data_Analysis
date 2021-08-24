@@ -1,1 +1,0 @@
-Open ipynb with either google colab or jupyternotebook
